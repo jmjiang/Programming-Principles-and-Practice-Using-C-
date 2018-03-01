@@ -1,0 +1,7 @@
+I AM FILE1. 
+I HAVE NOTHING TO SAY, EXCEPT THAT
+1+4 = 5.
+
+I am file2.
+Whatever file1 says is correct.
+

@@ -1,0 +1,4 @@
+
+I am file2.
+Whatever file1 says is correct.
+
